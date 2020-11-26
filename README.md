@@ -24,5 +24,3 @@ Profesores:
     ● Rozas, Karina 
     ● Torchinsky, David
     ● Chiarotto, Agustin
-
-    HOLAAAA
